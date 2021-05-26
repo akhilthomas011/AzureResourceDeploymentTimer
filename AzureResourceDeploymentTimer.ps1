@@ -5,6 +5,9 @@
         .DESCRIPTION
         Fetches the timeline associated with the first incident of Azure Resources in a Resource Group.
 
+        .AUTHOR
+        Akhil Thomas - akhilthomas011@gmail.com
+
         .PARAMETER ResourceGroupName
         Specifies the name of the Resource Group under investigation.
 
